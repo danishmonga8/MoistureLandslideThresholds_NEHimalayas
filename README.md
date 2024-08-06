@@ -1,7 +1,7 @@
 # LandslideThresholdAnalysis_NERIHimalayas
 
 ## Author
-- **Danish Monga** (Primary Developer)
+- **Danish Monga** (Primary Developer, Indian Institute of Technology Kharagpur)
 - **Dr. Poulomi Ganguli** (Collaborator, Indian Institute of Technology Kharagpur)
 
 ## Overview
