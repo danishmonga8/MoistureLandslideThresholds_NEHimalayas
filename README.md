@@ -20,6 +20,15 @@ This repository contains MATLAB code for analyzing moisture-driven landslide thr
 - `results/`: Directory where output files and figures are saved.
 - `README.md`: This file, providing an overview and instructions.
 
+## Data Sources
+
+- **Station-based daily rainfall time series** is retrieved from the India Meteorological Department (IMD)’s Data Supply Portal: [IMD Data Supply Portal](https://dsp.imdpune.gov.in/).
+- **Gridded rainfall time series for the Neri region** is obtained from the archived gridded records of IMD, available at: [IMD Gridded Data](https://www.imdpune.gov.in/Clim_Pred_LRF_New/Grided_Data_Download.html).
+- **Historical landslide inventory** was obtained from:
+  - [NASA Cooperative Open Online Landslide Repository (COOLR)](https://catalog.data.gov/dataset/global-landslide-catalog-export).
+  - [Geological Survey of India’s Bhukosh portal](https://bhukosh.gsi.gov.in/Bhukosh/).
+
+
 ## Requirements
 
 To run this code, ensure you have the following:
