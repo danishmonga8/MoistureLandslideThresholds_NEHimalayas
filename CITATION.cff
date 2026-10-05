@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it and the associated research."
+type: software
+title: "Moisture-driven landslide threshold analysis for the Northeastern Himalaya"
+authors:
+  - family-names: Monga
+    given-names: Danish
+    affiliation: "Indian Institute of Technology Kharagpur"
+  - family-names: Ganguli
+    given-names: Poulomi
+    affiliation: "Indian Institute of Technology Kharagpur"
+repository-code: "https://github.com/danishmonga8/MoistureLandslideThresholds_NEHimalayas"
+url: "https://github.com/danishmonga8/MoistureLandslideThresholds_NEHimalayas"
+license: MIT
+keywords:
+  - landslides
+  - rainfall thresholds
+  - Northeastern Himalaya
+  - early warning systems
+

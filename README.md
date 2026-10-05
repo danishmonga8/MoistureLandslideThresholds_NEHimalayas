@@ -1,5 +1,11 @@
 # Landslide Threshold Analysis NERIHimalayas
 
+> **Legacy research repository.** For the current reproducible implementation,
+> sample data, and expanded moisture-aware diagnostics, see
+> [`neh_mdl_moisture_thresholds`](https://github.com/danishmonga8/neh_mdl_moisture_thresholds).
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 ## Author
 - **Danish Monga** (Primary Developer, Indian Institute of Technology Kharagpur)
 - **Dr. Poulomi Ganguli** (Collaborator, Indian Institute of Technology Kharagpur)
@@ -45,4 +51,4 @@ To run the code, ensure you have the following:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/danishmonga8/LandslideThresholdAnalysis_NERIHimalayas.git
+   git clone https://github.com/danishmonga8/MoistureLandslideThresholds_NEHimalayas.git
